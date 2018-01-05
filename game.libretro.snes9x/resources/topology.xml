@@ -36,6 +36,6 @@
       </port>
     </accepts>
     <accepts controller="game.controller.snes.super.scope"/>
-    <accepts controller="game.controller.konami.justifier" model="blue"/>
+    <accepts controller="game.controller.konami.justifier.blue"/>
   </port>
 </logicaltopology>
