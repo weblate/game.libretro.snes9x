@@ -19,8 +19,8 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Nintendo - SNES / Famicom (Snes9x) 1.54.1</summary>
-		<description>Snes9x is a portable, freeware SNES and Super Famicom emulator. Snes9x is coded in C++, with three assembler CPU emulation cores on the i386 Linux and Windows ports.
+		<summary lang="en_GB">Nintendo - SNES / Famicom (Snes9x) 1.54.1</summary>
+		<description lang="en_GB">Snes9x is a portable, freeware SNES and Super Famicom emulator. Snes9x is coded in C++, with three assembler CPU emulation cores on the i386 Linux and Windows ports.
 
 Icon credit: HarryBana (harrybana.deviantart.com)
 
