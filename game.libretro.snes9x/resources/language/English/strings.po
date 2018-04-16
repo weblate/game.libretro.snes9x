@@ -104,3 +104,7 @@ msgctxt "#30021"
 msgid "Enable sound channel 8"
 msgstr ""
 
+msgctxt "#30022"
+msgid "Allow Up+Down / Left+Right"
+msgstr ""
+

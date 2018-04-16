@@ -22,5 +22,6 @@
 		<setting label="30019" type="select" id="snes9x_sndchan_6" values="enabled|disabled" default="enabled"/>
 		<setting label="30020" type="select" id="snes9x_sndchan_7" values="enabled|disabled" default="enabled"/>
 		<setting label="30021" type="select" id="snes9x_sndchan_8" values="enabled|disabled" default="enabled"/>
+		<setting label="30022" type="select" id="snes9x_up_down_allowed" values="disabled|enabled" default="disabled"/>
 	</category>
 </settings>
