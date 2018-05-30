@@ -69,42 +69,46 @@ msgid "Crop overscan"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Reduce Flickering (Hack, Unsafe)"
+msgid "Randomize Memory (Unsafe)"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Enable sound channel 1"
+msgid "Reduce Flickering (Hack, Unsafe)"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Enable sound channel 2"
+msgid "Enable sound channel 1"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Enable sound channel 3"
+msgid "Enable sound channel 2"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Enable sound channel 4"
+msgid "Enable sound channel 3"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Enable sound channel 5"
+msgid "Enable sound channel 4"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Enable sound channel 6"
+msgid "Enable sound channel 5"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Enable sound channel 7"
+msgid "Enable sound channel 6"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Enable sound channel 8"
+msgid "Enable sound channel 7"
 msgstr ""
 
 msgctxt "#30022"
+msgid "Enable sound channel 8"
+msgstr ""
+
+msgctxt "#30023"
 msgid "Allow Opposing Directions"
 msgstr ""
 
