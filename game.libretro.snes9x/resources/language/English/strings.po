@@ -25,90 +25,106 @@ msgid "Preferred aspect ratio"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Enable graphic clip windows"
+msgid "Audio Interpolation"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Enable hires mode"
+msgid "Enable graphic clip windows"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Enable transparency effects"
+msgid "Enable hires mode"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Show layer 1"
+msgid "Enable transparency effects"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Show layer 2"
+msgid "Hires Blending"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Show layer 3"
+msgid "Show layer 1"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Show layer 4"
+msgid "Show layer 2"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Show sprite layer"
+msgid "Show layer 3"
 msgstr ""
 
 msgctxt "#30010"
-msgid "SuperFX Frequency"
+msgid "Show layer 4"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Reduce Slowdown (Hack, Unsafe)"
+msgid "Show sprite layer"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Crop overscan"
+msgid "M.A.C.S. Rifle - adjust aim x"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Randomize Memory (Unsafe)"
+msgid "M.A.C.S. Rifle - adjust aim y"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Reduce Flickering (Hack, Unsafe)"
+msgid "Reduce Slowdown (Hack, Unsafe)"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Enable sound channel 1"
+msgid "SuperFX Overclocking"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Enable sound channel 2"
+msgid "Crop overscan"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Enable sound channel 3"
+msgid "Randomize Memory (Unsafe)"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Enable sound channel 4"
+msgid "Reduce Flickering (Hack, Unsafe)"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Enable sound channel 5"
+msgid "Enable sound channel 1"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Enable sound channel 6"
+msgid "Enable sound channel 2"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Enable sound channel 7"
+msgid "Enable sound channel 3"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Enable sound channel 8"
+msgid "Enable sound channel 4"
 msgstr ""
 
 msgctxt "#30023"
+msgid "Enable sound channel 5"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Enable sound channel 6"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Enable sound channel 7"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Enable sound channel 8"
+msgstr ""
+
+msgctxt "#30027"
 msgid "Allow Opposing Directions"
 msgstr ""
 
