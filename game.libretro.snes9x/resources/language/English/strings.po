@@ -65,66 +65,58 @@ msgid "Show sprite layer"
 msgstr ""
 
 msgctxt "#30012"
-msgid "M.A.C.S. Rifle - adjust aim x"
-msgstr ""
-
-msgctxt "#30013"
-msgid "M.A.C.S. Rifle - adjust aim y"
-msgstr ""
-
-msgctxt "#30014"
 msgid "Reduce Slowdown (Hack, Unsafe)"
 msgstr ""
 
-msgctxt "#30015"
+msgctxt "#30013"
 msgid "SuperFX Overclocking"
 msgstr ""
 
-msgctxt "#30016"
+msgctxt "#30014"
 msgid "Crop overscan"
 msgstr ""
 
-msgctxt "#30017"
+msgctxt "#30015"
 msgid "Randomize Memory (Unsafe)"
 msgstr ""
 
-msgctxt "#30018"
+msgctxt "#30016"
 msgid "Reduce Flickering (Hack, Unsafe)"
 msgstr ""
 
-msgctxt "#30019"
+msgctxt "#30017"
 msgid "Enable sound channel 1"
 msgstr ""
 
-msgctxt "#30020"
+msgctxt "#30018"
 msgid "Enable sound channel 2"
 msgstr ""
 
-msgctxt "#30021"
+msgctxt "#30019"
 msgid "Enable sound channel 3"
 msgstr ""
 
-msgctxt "#30022"
+msgctxt "#30020"
 msgid "Enable sound channel 4"
 msgstr ""
 
-msgctxt "#30023"
+msgctxt "#30021"
 msgid "Enable sound channel 5"
 msgstr ""
 
-msgctxt "#30024"
+msgctxt "#30022"
 msgid "Enable sound channel 6"
 msgstr ""
 
-msgctxt "#30025"
+msgctxt "#30023"
 msgid "Enable sound channel 7"
 msgstr ""
 
-msgctxt "#30026"
+msgctxt "#30024"
 msgid "Enable sound channel 8"
 msgstr ""
 
-msgctxt "#30027"
+msgctxt "#30025"
 msgid "Allow Opposing Directions"
 msgstr ""
 
