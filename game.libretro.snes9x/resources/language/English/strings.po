@@ -45,78 +45,114 @@ msgid "Hires Blending"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Show layer 1"
+msgid "Justifier 1 color"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Show layer 2"
+msgid "Justifier 1 crosshair"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Show layer 3"
+msgid "Justifier 2 color"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Show layer 4"
+msgid "Justifier 2 crosshair"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Show sprite layer"
+msgid "Show layer 1"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Reduce Slowdown (Hack, Unsafe)"
+msgid "Show layer 2"
 msgstr ""
 
 msgctxt "#30013"
-msgid "SuperFX Overclocking"
+msgid "Show layer 3"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Crop overscan"
+msgid "Show layer 4"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Randomize Memory (Unsafe)"
+msgid "Show sprite layer"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Reduce Flickering (Hack, Unsafe)"
+msgid "Reduce Slowdown (Hack, Unsafe)"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Enable sound channel 1"
+msgid "SuperFX Overclocking"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Enable sound channel 2"
+msgid "Crop overscan"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Enable sound channel 3"
+msgid "Randomize Memory (Unsafe)"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Enable sound channel 4"
+msgid "Reduce Flickering (Hack, Unsafe)"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Enable sound channel 5"
+msgid "Console region (Reload core)"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Enable sound channel 6"
+msgid "M.A.C.S. rifle color"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Enable sound channel 7"
+msgid "M.A.C.S. rifle crosshair"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Enable sound channel 8"
+msgid "Enable sound channel 1"
 msgstr ""
 
 msgctxt "#30025"
+msgid "Enable sound channel 2"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Enable sound channel 3"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Enable sound channel 4"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Enable sound channel 5"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Enable sound channel 6"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Enable sound channel 7"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Enable sound channel 8"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Super Scope color"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Super Scope crosshair"
+msgstr ""
+
+msgctxt "#30034"
 msgid "Allow Opposing Directions"
 msgstr ""
 
