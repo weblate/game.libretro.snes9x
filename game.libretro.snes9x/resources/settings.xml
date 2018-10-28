@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
 	<category label="30000">
-		<setting label="30001" type="select" id="snes9x_aspect" values="4:3|8:7|auto|ntsc|pal" default="4:3"/>
+		<setting label="30001" type="select" id="snes9x_aspect" values="4:3|uncorrected|auto|ntsc|pal" default="4:3"/>
 		<setting label="30002" type="select" id="snes9x_audio_interpolation" values="gaussian|cubic|sinc|none|linear" default="gaussian"/>
 		<setting label="30003" type="select" id="snes9x_block_invalid_vram_access" values="enabled|disabled" default="enabled"/>
 		<setting label="30004" type="select" id="snes9x_gfx_clip" values="enabled|disabled" default="enabled"/>
