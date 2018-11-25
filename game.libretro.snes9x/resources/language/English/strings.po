@@ -159,4 +159,3 @@ msgstr ""
 msgctxt "#30035"
 msgid "Allow Opposing Directions"
 msgstr ""
-
