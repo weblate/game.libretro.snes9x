@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.snes9x"
 		name="Nintendo - SNES / Famicom (Snes9x)"
-		version="1.58.0.6"
+		version="1.60.0.7"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -19,7 +19,7 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Nintendo - SNES / Famicom (Snes9x) 1.58</summary>
+		<summary lang="en_GB">Nintendo - SNES / Famicom (Snes9x) 1.60</summary>
 		<description lang="en_GB">Snes9x is a portable, freeware SNES and Super Famicom emulator. Snes9x is coded in C++, with three assembler CPU emulation cores on the i386 Linux and Windows ports.
 
 Icon credit: HarryBana (harrybana.deviantart.com)

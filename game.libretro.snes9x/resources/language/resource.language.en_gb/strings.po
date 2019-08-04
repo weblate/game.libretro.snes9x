@@ -21,7 +21,7 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Preferred aspect ratio"
+msgid "Preferred Aspect Ratio"
 msgstr ""
 
 msgctxt "#30002"
@@ -29,133 +29,149 @@ msgid "Audio Interpolation"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Block Invalid VRAM Access"
+msgid "Blargg NTSC Filter"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Enable graphic clip windows"
+msgid "Block Invalid VRAM Access"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Enable hires mode"
+msgid "Echo Buffer Hack (Unsafe, only enable for old addmusic hacks)"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Enable transparency effects"
+msgid "Enable Graphic Clip Windows"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Hires Blending"
+msgid "Enable Hi-Res Mode"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Justifier 1 color"
+msgid "Enable Transparency Effects"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Justifier 1 crosshair"
+msgid "Hi-Res Blending"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Justifier 2 color"
+msgid "Justifier 1 Color"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Justifier 2 crosshair"
+msgid "Justifier 1 Crosshair"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Show layer 1"
+msgid "Justifier 2 Color"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Show layer 2"
+msgid "Justifier 2 Crosshair"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Show layer 3"
+msgid "Show Layer 1"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Show layer 4"
+msgid "Show Layer 2"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Show sprite layer"
+msgid "Show Layer 3"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Reduce Slowdown (Hack, Unsafe)"
+msgid "Show Layer 4"
 msgstr ""
 
 msgctxt "#30018"
-msgid "SuperFX Overclocking"
+msgid "Show Sprite Layer"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Crop overscan"
+msgid "Light Gun Mode"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Randomize Memory (Unsafe)"
+msgid "Reduce Slowdown (Hack, Unsafe)"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Reduce Flickering (Hack, Unsafe)"
+msgid "SuperFX Overclocking"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Console region (Reload core)"
+msgid "Crop Overscan"
 msgstr ""
 
 msgctxt "#30023"
-msgid "M.A.C.S. rifle color"
+msgid "Randomize Memory (Unsafe)"
 msgstr ""
 
 msgctxt "#30024"
-msgid "M.A.C.S. rifle crosshair"
+msgid "Reduce Flickering (Hack, Unsafe)"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Enable sound channel 1"
+msgid "Console Region (Reload Core)"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Enable sound channel 2"
+msgid "M.A.C.S. Rifle Color"
 msgstr ""
 
 msgctxt "#30027"
-msgid "Enable sound channel 3"
+msgid "M.A.C.S. Rifle Crosshair"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Enable sound channel 4"
+msgid "Enable Sound Channel 1"
 msgstr ""
 
 msgctxt "#30029"
-msgid "Enable sound channel 5"
+msgid "Enable Sound Channel 2"
 msgstr ""
 
 msgctxt "#30030"
-msgid "Enable sound channel 6"
+msgid "Enable Sound Channel 3"
 msgstr ""
 
 msgctxt "#30031"
-msgid "Enable sound channel 7"
+msgid "Enable Sound Channel 4"
 msgstr ""
 
 msgctxt "#30032"
-msgid "Enable sound channel 8"
+msgid "Enable Sound Channel 5"
 msgstr ""
 
 msgctxt "#30033"
-msgid "Super Scope color"
+msgid "Enable Sound Channel 6"
 msgstr ""
 
 msgctxt "#30034"
-msgid "Super Scope crosshair"
+msgid "Enable Sound Channel 7"
 msgstr ""
 
 msgctxt "#30035"
+msgid "Enable Sound Channel 8"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Super Scope Color"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Super Scope Crosshair"
+msgstr ""
+
+msgctxt "#30038"
+msgid "Super Scope Reverse Trigger Buttons"
+msgstr ""
+
+msgctxt "#30039"
 msgid "Allow Opposing Directions"
 msgstr ""
