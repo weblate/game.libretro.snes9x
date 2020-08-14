@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.snes9x"
 		name="Nintendo - SNES / SFC (Snes9x - Current)"
-		version="1.60.0.11"
-		provider-name="Libretro">
+		version="1.60.0.12"
+		provider-name="Snes9x Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.snes" version="1.0.0"/>
@@ -14,7 +14,7 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>SNES</platforms>
-		<extensions>smc|sfc|swc|fig|bs</extensions>
+		<extensions>smc|sfc|swc|fig|bs|st</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 	</extension>
@@ -24,7 +24,7 @@
 
 Icon credit: HarryBana (harrybana.deviantart.com)
 
-Supported files: .smc, .sfc, .swc, .fig, .bs</description>
+Supported files: .smc, .sfc, .swc, .fig, .bs, .st</description>
 		<disclaimer>The Snes9X team is not connected or affiliated with any mentioned company in any way. The opinions of the Snes9X team do not reflect the views of the various companies mentioned here. Companies and all products pertaining to that company are trademarks of that company. Please contact that company for trademark and copyright information.</disclaimer>
 		<license>Non-commercial</license>
 		<platform>@PLATFORM@</platform>
